@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #bb4545;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+#bike-options {
+    max-width: 800px;
+    margin: 20px auto;
+}
+
+.bike-option {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+}
+
+.bike-option img {
+    max-width: 100%;
+    height: auto;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
